@@ -23,3 +23,6 @@
 [submodule "Scanline_Conversion"]
 	path = Scanline_Conversion
 	url = https://github.com/kionkina/solids.git
+[submodule "Lighting"]
+	path = Lighting
+	url = https://github.com/kionkina/lighting.git
