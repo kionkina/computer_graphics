@@ -20,3 +20,6 @@
 [submodule "Stack_Structure"]
 	path = Stack_Structure
 	url = https://github.com/kionkina/stacks.git
+[submodule "Scanline_Conversion"]
+	path = Scanline_Conversion
+	url = https://github.com/kionkina/solids.git
