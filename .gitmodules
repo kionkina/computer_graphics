@@ -29,3 +29,6 @@
 [submodule "MDL"]
 	path = MDL
 	url = https://github.com/kionkina/em_dee_el.git
+[submodule "MDL_Animation"]
+	path = MDL_Animation
+	url = https://github.com/kionkina/mdl_anim.git
