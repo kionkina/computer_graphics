@@ -10,6 +10,7 @@
 [submodule "Bezier_and_Hermite"]
 	path = Bezier_and_Hermite
 	url = https://github.com/kionkina/wavy.git
+
 [submodule "3D"]
 	path = 3D
 	url = https://github.com/kionkina/three_dee.git
