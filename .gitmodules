@@ -32,3 +32,6 @@
 [submodule "MDL_Animation"]
 	path = MDL_Animation
 	url = https://github.com/kionkina/mdl_anim.git
+[submodule "Final Project"]
+	path = Final Project
+	url = https://github.com/ibnullify/cgfinalproject.git
