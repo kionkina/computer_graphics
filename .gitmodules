@@ -11,3 +11,6 @@
 	path = Bezier_and_Hermite
 	url = https://github.com/kionkina/wavy.git
 
+[submodule "3d"]
+	path = 3d
+	url = https://github.com/kionkina/three_dee.git
