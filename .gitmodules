@@ -1,3 +1,6 @@
 [submodule "Bresenhams_Line_Algorithm"]
 	path = Bresenhams_Line_Algorithm
 	url = https://github.com/kionkina/work2.git
+[submodule "Edge_Matrix"]
+	path = Edge_Matrix
+	url = git@github.com:kionkina/trix_are_for_kids.git
