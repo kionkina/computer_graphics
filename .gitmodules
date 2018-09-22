@@ -26,3 +26,6 @@
 [submodule "Lighting"]
 	path = Lighting
 	url = https://github.com/kionkina/lighting.git
+[submodule "MDL"]
+	path = MDL
+	url = https://github.com/kionkina/em_dee_el.git
