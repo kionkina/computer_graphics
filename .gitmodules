@@ -14,3 +14,9 @@
 [submodule "3d"]
 	path = 3d
 	url = https://github.com/kionkina/three_dee.git
+[submodule "Polygons"]
+	path = Polygons
+	url = https://github.com/kionkina/gons_of_poly.git
+[submodule "Stack_Structure"]
+	path = Stack_Structure
+	url = https://github.com/kionkina/stacks.git
