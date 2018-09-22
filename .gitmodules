@@ -3,4 +3,13 @@
 	url = https://github.com/kionkina/work2.git
 [submodule "Edge_Matrix"]
 	path = Edge_Matrix
-	url = git@github.com:kionkina/trix_are_for_kids.git
+	url = https://github.com/kionkina/trix_are_for_kids.git
+[submodule "Transformations"]
+	path = Transformations
+	url = https://github.com/kionkina/transformationz.git
+[submodule "Bezier_and_Hermite"]
+	path = Bezier_and_Hermite
+	url = https://github.com/kionkina/wavy.git
+[submodule "3D"]
+	path = 3D
+	url = https://github.com/kionkina/three_dee.git
