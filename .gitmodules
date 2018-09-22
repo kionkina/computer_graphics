@@ -35,3 +35,6 @@
 [submodule "Final Project"]
 	path = Final Project
 	url = https://github.com/ibnullify/cgfinalproject.git
+[submodule "picmaker"]
+	path = picmaker
+	url = https://github.com/kionkina/work01.git
